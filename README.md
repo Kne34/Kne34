@@ -102,7 +102,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kne34&theme=github_dark" alt="Profile Details" width="100%" />
+  <img src="https://ghchart.rshah.org/00B4D8/kne34" alt="Contribution Calendar" width="100%" />
 </p>
 
 <p align="center">
